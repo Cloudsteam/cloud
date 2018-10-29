@@ -59,20 +59,24 @@
 .kochiport_center_img{
 	margin-top: 40px;
 	text-align: center;
+	height: 220px;
+	width: 980px;
+	margin: 0 auto;
 }
 
 .kochiport_center_img01 ,.kochiport_center_img02 ,.kochiport_center_img03{
 	float: left;
-	width: 200px;
+	/*width: 200px;*/
 	display: block;
 	text-align: center;
+	overflow: hidden;
 }
-.kochiport_center_img01{
+/*.kochiport_center_img01{
 	margin-left: 20.5%;
-}
-.kochiport_center_img02 ,.kochiport_center_img03{
+}*/
+/*.kochiport_center_img02 ,.kochiport_center_img03{
 	margin-left: 260px;
-}
+}*/
 
 .kochiport_technology_making{
 	width: 20px;
@@ -167,6 +171,9 @@
 .kochiport_center_img{
 	margin-top: 40px;
 	text-align: center;
+	height: 220px;
+	width: 980px;
+	margin: 40 auto 0 auto;
 }
 
 .kochiport_center_img01 ,.kochiport_center_img02 ,.kochiport_center_img03{
@@ -175,11 +182,11 @@
 	display: block;
 	text-align: center;
 }
-.kochiport_center_img01{
+/*.kochiport_center_img01{
 	margin-left: 13%;
-}
+}*/
 .kochiport_center_img02 ,.kochiport_center_img03{
-	margin-left: 260px;
+	margin-left: 190px;
 }
 .kochiport_describle_a{
 	margin-left: 15%;
