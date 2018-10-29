@@ -29,11 +29,9 @@ ul{
     background-color: #f8f8f8;
 }
 .xph-head{
-    width: 1899px;
     height: 460px;
-    background-image: url(../img/xph-banner.png);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background: url(../img/xph-banner.png) no-repeat center center;
+    background-size: cover;
 }
 .xph-body{
     height: 580px;
@@ -44,7 +42,7 @@ ul{
 
 .pie{
     height: 580px;
-    width: 1899px;
+    width: 100%;
 }
 #main{
     width: 1200px;

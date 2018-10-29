@@ -24,15 +24,13 @@ p{
     background-color: #f8f8f8;
 }
 .gywm-head{
-    width: 1899px;
     height: 460px;
-    background-image: url(../img/gywm-banner.png);
-    background-repeat: no-repeat;
+    background: url(../img/gywm-banner.png) no-repeat center center;
+    background-size: cover;
 }
 .gywm-body{
     height: 600px;
     background-color: #f8f8f8;
-    width: 1899px;
 }
 
 .gb-content{
