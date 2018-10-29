@@ -12,8 +12,8 @@
 
 .kochiport_logo{
 	height: 460px;
-	background-image: url(../img/kcg_bg.png);
-	background-size: 100% 100%;
+	background: url(../img/kcg_bg.png) no-repeat center center;
+    background-size: cover;
 }
 
 .kochiport_describle{
@@ -163,4 +163,29 @@
     transform: scale(1.05);
 }
 
+@media screen and (max-width: 1899px) {
+.kochiport_center_img{
+	margin-top: 40px;
+	text-align: center;
+}
 
+.kochiport_center_img01 ,.kochiport_center_img02 ,.kochiport_center_img03{
+	float: left;
+	width: 200px;
+	display: block;
+	text-align: center;
+}
+.kochiport_center_img01{
+	margin-left: 13%;
+}
+.kochiport_center_img02 ,.kochiport_center_img03{
+	margin-left: 260px;
+}
+.kochiport_describle_a{
+	margin-left: 15%;
+	margin-top: 50px;
+	float: left;
+	overflow: hidden;
+}
+
+}

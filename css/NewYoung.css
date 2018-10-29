@@ -18,8 +18,8 @@ a{
 }
 .NewYoung_logo{
 	height: 460px;
-	background-image: url(../img/ny_banner.png);
-	background-size: 100% 100%;
+	background: url(../img/ny_banner.png) no-repeat center center;
+    background-size: cover;
 }
 
 .NewYoung_university_tilte ,.NewYoung_GuestTeam_tilte ,.NewYoung_Elite_tilte{

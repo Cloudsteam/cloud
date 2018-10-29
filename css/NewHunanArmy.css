@@ -14,8 +14,8 @@
 }
 .NewHnArmy_logo{
 	height: 460px;
-	background-image: url(../img/xxj_banner.png);
-	background-size: 100% 100%;
+	background: url(../img/xxj_banner.png) no-repeat center center;
+    background-size: cover;
 }
 .NewHnArmy_Countries{
 	background-color: #FFFFFF;
